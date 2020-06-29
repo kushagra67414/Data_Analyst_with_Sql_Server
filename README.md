@@ -47,3 +47,12 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **DERIVED TABLES**
   * **CTE [COMMON TABLE EXPRESSION]**
   
+  
+                `CHAPTER -4`
+                
+  * **WINDOWS FUNCTION**
+  * **FIRST_VALUE() & LAST_VALUE()**
+  * **LEAD() AND LAG()**
+  * **INCREASING WINDOWS COMPLEXITY**
+  * **Using windows for calculating statistics**
+  * **LIKE STDEV() AND MODE**
