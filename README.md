@@ -39,3 +39,11 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **DATEADD & DATEDIFF**
   * **ROUNDING AND TRUNCATING NUMBERS**
   * **MORE MAATHS FUNCTION**
+
+                `CHAPTER -3`
+
+  * **WHILE LOOP**
+  * **DECLARED VARIABLE**
+  * **DERIVED TABLES**
+  * **CTE [COMMON TABLE EXPRESSION]**
+  
