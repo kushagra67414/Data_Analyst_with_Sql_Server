@@ -60,9 +60,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
 ## Course-4 (TIME SERIES ANALYSIS IN SQL SERVER)
 
                   `Chapter-1`
-                  ` `
+                 
   * **Building dates**
   * **Comparing dates**
   * **Formatting dates for reporting**
   * **Working with calender tables**
-  *  ** CAST() , CONVERT() , AND FORMAT() FUNC**
+  *  **CAST() , CONVERT() , AND FORMAT() FUNC**
