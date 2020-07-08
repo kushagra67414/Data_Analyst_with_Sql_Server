@@ -66,3 +66,10 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **Formatting dates for reporting**
   * **Working with calender tables**
   *  **CAST() , CONVERT() , AND FORMAT() FUNC**
+  
+                 `Chapter-2`
+  today done with :
+  * **Building dates from parts**
+  * **Dates from part**
+  * **Working with offsets**
+
