@@ -72,4 +72,29 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **Building dates from parts**
   * **Dates from part**
   * **Working with offsets**
-
+  * **different between cast() and convert() and cost of parsing**
+  * **Translating date strings**
+  * **Casting strings**
+  * **Converting Strings**
+  * **Parsing strings**
+  
+  THE COST OF PARSING :
+            |function |Conversions Per Second |
+            |--- |--- |
+            |CONVERT()| 251,997 |
+            |CAST()|  240,347 |
+            |parse()| 12,620|
+            
+  * **Setting languages**
+  * **Working with offset**
+      
+      > Changing offsets.  SYNTAX => `SWITCHOFFSET() as Col_name`
+      > Converting to DATETIMEOFFSET.  SYNTAX=>  `TODATETIMEOFFSET()`
+  * **Discovering time zones**
+  * **HANDLING INVALID DATES**
+         
+     ` > Using safe functions like`
+       ` > TRY_CAST()`
+       ` > TRY_CONVERT()`
+      `  > TRY_PARSE()`
+        
