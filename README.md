@@ -79,11 +79,11 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **Parsing strings**
   
   THE COST OF PARSING :
-            | function | Conversions Per Second |
+           ``` | function | Conversions Per Second |
             | -------- | ---------------------- |
             | CONVERT() | 251,997 |
             | CAST() |  240,347 |
-            | parse() | 12,620 |
+            | parse() | 12,620 |```
             
   * **Setting languages**
   * **Working with offset**
