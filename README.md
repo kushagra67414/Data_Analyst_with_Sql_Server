@@ -95,6 +95,7 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **HANDLING INVALID DATES**
          
     ``` Using safe functions like
+         Using safe functions like
          TRY_CAST()
          TRY_CONVERT()
          TRY_PARSE()```
