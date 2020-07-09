@@ -57,9 +57,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **Using windows for calculating statistics**
   * **LIKE STDEV() AND MODE**
   
-## Course-4 (TIME SERIES ANALYSIS IN SQL SERVER)
+       ## Course-4 (TIME SERIES ANALYSIS IN SQL SERVER)
 
-                  `Chapter-1`
+                  `**Chapter-1**`
                  
   * **Building dates**
   * **Comparing dates**
@@ -99,4 +99,27 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
          TRY_CAST()
          TRY_CONVERT()
          TRY_PARSE()```
-        
+         
+               `Chapter-3`
+  
+  LEARN ABOUT =>      
+  * Basic aggregation function
+  * FILTERING Aggregates with CASE.
+  * Statistical aggregate functions.
+  * LIKE :  STDEVP() , VAR() , VARP() ETC ETC.
+  * MEDIAN with special builtin function:
+               
+               ```
+               SELECT TOP(1)
+               PERCENTILE_CONT(0.5)
+               WITHIN GROUP (ORDER BY l.SomeVal DESC)
+               OVER () AS MedianIncidents
+               FROM dbo.LargeTable l;
+               ```
+   * Cost of median high. why ?
+   * Downsampling and upsampling data
+   * Grouping by ROLLUP, CUBE, and GROUPING SETS
+   * Hierarchical rollups with ROLLUP
+   * Cartesian aggregation with CUBE
+   * Define grouping sets with GROUPING SETS
+   
