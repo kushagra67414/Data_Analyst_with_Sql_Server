@@ -89,12 +89,13 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
   * **Working with offset**
       
       > Changing offsets.  SYNTAX => `SWITCHOFFSET() as Col_name`
+      
       > Converting to DATETIMEOFFSET.  SYNTAX=>  `TODATETIMEOFFSET()`
   * **Discovering time zones**
   * **HANDLING INVALID DATES**
          
-     ` > Using safe functions like`
-       ` > TRY_CAST()`
-       ` > TRY_CONVERT()`
-      `  > TRY_PARSE()`
+    ``` Using safe functions like
+         TRY_CAST()
+         TRY_CONVERT()
+         TRY_PARSE()```
         
