@@ -123,3 +123,17 @@ https://www.datacamp.com/statement-of-accomplishment/course/dbf15c0aa657cd9671c5
    * Cartesian aggregation with CUBE
    * Define grouping sets with GROUPING SETS
    
+   
+ Date : 11-july-2020
+ 
+                `Chapter-4`
+ LEARN ABOUT =>
+ 
+ * Using aggregation functions over windows.
+ * Ranking func line  DENSE_RANK() , RANK() ...ETC
+ * Aggregations with empty windows
+ * Calculating running totals and moving averages.
+ * Windows and filtersand CTEs.
+ * Finding maximum levels of overlap.
+ 
+MOTTO : Common (and uncommon) time series problems.
