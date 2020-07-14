@@ -140,3 +140,17 @@ MOTTO : Common (and uncommon) time series problems.
 
 Done With Course 4 of data analyst with sql server.
 
+ 
+Date : 14- july-2020 
+
+## COURSE - 5
+   
+       `CHAPTER -1`
+LEARN ABOUT :
+
+* Data type Storage
+* precision of decimal.
+* IMPLICIT & EXPLICIT CONVERSION.
+* Precedence of data types.
+[click here to learn more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter1.pdf)
+
