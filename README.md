@@ -170,4 +170,4 @@ LEARN ABOUT :
 * also set language EXPLICITYLY
         > SET LANGUAGE {language}
         
- [CAN CLICK HERE FOR FULL SYNTAX , PDF PROVIDED]()
+ [CAN CLICK HERE FOR FULL SYNTAX , PDF PROVIDED](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter2.pdf)
