@@ -154,3 +154,20 @@ LEARN ABOUT :
 * Precedence of data types.
 [click here to learn more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter1.pdf)
 
+       `CHATER - 2`
+LEARN ABOUT :
+
+* Higher Precision vs lower Precision.
+* Datefromparts(YEAR() , MONTH() , DAY() )
+* Performing Arithmetic operations on dates
+* SYNTAX : DATEDIFF(datepart, startdate, enddate)
+* SYNTAX : DATEADD(datepart, number, date)
+* Validating if an expression is a date.
+        > Syntax : ISDATE(expression)
+* Set dateformat explicitly
+        > SET DATEFORMAT {format}
+        
+* also set language EXPLICITYLY
+        > SET LANGUAGE {language}
+        
+ [CAN CLICK HERE FOR FULL SYNTAX , PDF PROVIDED]()
