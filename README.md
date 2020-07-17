@@ -171,3 +171,19 @@ LEARN ABOUT :
         > SET LANGUAGE {language}
         
  [CAN CLICK HERE FOR FULL SYNTAX , PDF PROVIDED](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter2.pdf)
+ 
+ 
+       
+        `CHAPTER - 3`
+
+LEARN ABOUT :
+
+* Functions for Position.
+           Functions like : LEN() , PATINDEX() , CHARINDEX()
+* Function FOR STRING TRANSFORMATION.
+           Function Like :  LOWER() & UPPER() , LTRIM() & RTRIM() & TRIM() , SUBSTRING() , REPLACE()
+* Functions for Manipulating Groups Of Strings.
+           Function like : CONCAT() & CONCAT_WS() , STRING_AGG() , STRING_SPLIT()
+
+
+[Detail Learning for all the built-in Methods, CLICK HERE](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter3.pdf)
