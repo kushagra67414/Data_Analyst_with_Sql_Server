@@ -144,6 +144,7 @@ Done With Course 4 of data analyst with sql server.
 Date : 14- july-2020 
 
 ## COURSE - 5
+   ## Functions for Manipulating Data in SQL Server
    
        `CHAPTER -1`
 LEARN ABOUT :
@@ -187,3 +188,34 @@ LEARN ABOUT :
 
 
 [Detail Learning for all the built-in Methods, CLICK HERE](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server/chapter3.pdf)
+
+          `CHAPTER-4`
+          
+LEARN ABOUT :
+
+* Aggregate arithmetic functions
+* Analytic functions
+like : FIRST_VALUE() / LAST_VALUE() 
+SYNTAX : LAST_VALUE(numeric_expression)
+OVER ([PARTITION BY column] ORDER BY column ROW_or_RANGE frame)  
+* Partition limits
+RANGE BETWEEN start_boundary AND end_boundary
+ROWS BETWEEN start_boundary AND end_boundary
+* Mathematical functions
+LIKE : ABS(numeric_expression) / SIGN(numeric_expression) / 
+* Rounding functions
+1. CEILING(numeric_expression)
+2. FLOOR(numeric_expression)
+3. ROUND(numeric_expression, length)
+
+* Exponential functions
+1. POWER(numeric_expression, power)
+2. SQUARE(numeric_expression)
+3.  SQRT(numeric_expression)
+
+[STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/733c7e90244ca2b1ca7ab5cf7a0a7e397176aa08)
+
+`COMPLETE CHAPTER 5`
+           
+           
+           
