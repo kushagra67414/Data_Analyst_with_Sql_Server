@@ -218,4 +218,16 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
 `COMPLETE CHAPTER 5`
            
            
-           
+## COURSE -6
+
+         `CHAPTER-1`
+   
+ * OLAP AND OLTP
+ * olap VS OLTP
+ * Woking together OLAP (DATA Warehouse) OLTP(Operational Database)
+ * Storing data ( Structured / Unstructured / Semi-Structured )
+ * DATA LAKES (For Analyzing BIG datas)
+ * Data Modeling
+ * Dimensional Modelling
+ [click here for details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server)
+ 
