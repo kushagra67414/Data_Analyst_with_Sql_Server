@@ -231,3 +231,11 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Dimensional Modelling
  [click here for details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server)
  
+          `CHAPTER-2`
+          
+ * Star and snowflake schema
+ * Normalisation and DeNormalisation Databases
+ * OLTP Highly Normalized
+ * Normal Forms 
+ * Data Anomalies
+ * 
