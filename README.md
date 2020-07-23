@@ -245,3 +245,10 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Creating views
  * Benefits of views
  * Managing views
+ * Granting and revoking access to a view
+ * Updating a view
+ * Inserting into a view
+ * Dropping a view
+ RESTRICT AND CASCADE
+ * Redefining a view
+ * Altering a view
