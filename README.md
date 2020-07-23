@@ -238,4 +238,10 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * OLTP Highly Normalized
  * Normal Forms 
  * Data Anomalies
- * 
+ 
+          `CHAPTER-3`
+          
+ * Database views
+ * Creating views
+ * Benefits of views
+ * Managing views
