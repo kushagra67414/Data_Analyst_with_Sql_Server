@@ -252,3 +252,7 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  RESTRICT AND CASCADE
  * Redefining a view
  * Altering a view
+ * Materialized View
+ * Two types of views
+ * When to use materialized views
+ * Tools for managing dependencies
