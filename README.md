@@ -239,7 +239,7 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Normal Forms 
  * Data Anomalies
  
-          `CHAPTER-3`
+          `CHAPTER-3  [Database View]`
           
  * Database views
  * Creating views
