@@ -256,3 +256,15 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Two types of views
  * When to use materialized views
  * Tools for managing dependencies
+         
+         `CHAPTER-4  [Database roles and access control ]`
+         
+ * Granting and revoking access to a view
+ * Database roles
+ * Create a role
+ * GRANT and REVOKE privileges from roles
+ * DATABASE DESIGN
+ * Users and groups (are both roles)
+ * Table partitioning
+ * Vertical and Horizontal partitioning
+ * Relation to sharding
