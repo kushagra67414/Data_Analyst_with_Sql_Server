@@ -218,7 +218,7 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
 `COMPLETE CHAPTER 5`
            
            
-## COURSE -6
+## COURSE -6  [ DATABASE DESIGN ]
 
          `CHAPTER-1`
    
@@ -268,3 +268,19 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Table partitioning
  * Vertical and Horizontal partitioning
  * Relation to sharding
+ * Picking a Database Management System
+ * Data integration
+ 
+ [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/160e9b5bdaab1a7e3214416f1f1bdd5d20c4ae79)
+ 
+ 
+ 
+##   COURSE-7 [Hierarchical and Recursive Queries in SQL Server]
+
+     `CHATER-1`
+     
+ * Recap of Common Table Expressions (CTE)
+ * RECURSION 
+ * RECURSION BY CTE (COMMON TABLE Expressions)
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Hierarchical%20and%20Recursive%20Queries%20in%20SQL%20Server/chapter1.pdf)
