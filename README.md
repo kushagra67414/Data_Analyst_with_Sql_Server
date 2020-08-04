@@ -277,10 +277,29 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  
 ##   COURSE-7 [Hierarchical and Recursive Queries in SQL Server]
 
-     `CHATER-1`
+       `CHATER-1`
      
  * Recap of Common Table Expressions (CTE)
  * RECURSION 
  * RECURSION BY CTE (COMMON TABLE Expressions)
  
  [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Hierarchical%20and%20Recursive%20Queries%20in%20SQL%20Server/chapter1.pdf)
+ 
+       `CHAPTER-2`
+   
+ * Its was all about heirarchy
+ * ANALYSING THE FAMILY TREE  
+   
+       `CHAPTER-3`
+ 
+ * How to work with tables
+ * Working with hierarchical data models
+ * Working with Networks data models
+ 
+        `CHAPTER-4`
+        
+ * Travel planning for FLIGHT DATA
+ * How To assemble the Car.
+ * Modeling a power Grid
+ 
+ [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/e7e794a3181693f26c6e525876b2f1a637155727)
