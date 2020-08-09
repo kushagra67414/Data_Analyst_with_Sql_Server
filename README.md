@@ -303,3 +303,50 @@ LIKE : ABS(numeric_expression) / SIGN(numeric_expression) /
  * Modeling a power Grid
  
  [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/e7e794a3181693f26c6e525876b2f1a637155727)
+ 
+ 
+##     COURSE-8 [Transactions and Error Handling in SQL Server]
+
+       `CHAPTER-1 [ ERROR HANDLING ] `
+* THE TRY...CATCH
+* Nesting TRY...CATCH
+* Error anatomy and uncatchable errors
+* Giving information about errors
+* Error functions
+
+[Click here for details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Transactions%20and%20Error%20Handling%20in%20SQL%20Server/chapter1.pdf)
+
+
+       `CHAPTER-2 [ RAISERROR ] `
+* RAISERROR with message string
+* RAISERROR - Example with TRY...CATCH
+* THROW
+* Customizing error messages in the THROW
+* The FORMATMESSAGE function.
+
+[Click here for more details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Transactions%20and%20Error%20Handling%20in%20SQL%20Server/chapter2.pdf)
+
+       `CHAPTER-3 [ Transactions ] `
+WITH A CASE STUDY 
+*  Transaction statements - 1. BEGIN a transaction. 2. COMMIT a transaction. 3. ROLLBACK a transaction.
+* what is @@TRANCOUNT ?
+* Nested transactions
+* Savepoints and its purpose
+* XACT_ABORT & XACT_STATE [Most Imp].
+
+[Click here for Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Transactions%20and%20Error%20Handling%20in%20SQL%20Server/chapter3.pdf)
+
+       `CHAPTER-4 [ Transactions ] `
+       
+* Transaction isolation levels {MUST READ }
+* Dirty reads
+* Non-repeatable reads
+* Phantom reads
+* READ COMMITTED & REPEATABLE READ
+* SNAPSHOT
+* WITH (NOLOCK)
+
+[Click here for Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Transactions%20and%20Error%20Handling%20in%20SQL%20Server/chapter4.pdf)
+
+
+[STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/84007889facef60e22959255cd3a56f79834f331)
