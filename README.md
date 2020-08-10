@@ -350,3 +350,47 @@ WITH A CASE STUDY
 
 
 [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/84007889facef60e22959255cd3a56f79834f331)
+
+
+##          COURSE-9 [Writing Functions and Stored Procedures in SQL Server]
+
+
+       `CHAPTER-1`
+       
+ * Variables for datetime data
+ * Date manipulation.
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server/chapter1.pdf)
+ 
+        `CHAPTER-2`
+        
+ * Scalar user defined functions
+ * Modular programming
+ * Table valued UDFs
+ * Differences - ITVF vs. MSTVF
+ * Maintaining user defined functions
+ * Schemabinding
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server/chapter2.pdf)
+ 
+ 
+       `CHAPTER-3`
+       
+  * Stored procedures
+  * UDFs VS SPs
+  * CRUD!
+  * Let's EXEC!
+  * THROW vs RAISERROR
+  
+  [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server/chapter3.pdf)
+
+       `CHAPTER-4`
+       
+  * Case study EDA & imputation
+  * Data and mean and hot deck imputation.
+  * SHIFTS !!!
+  * TEST SHIFTS IN SPs
+  
+  [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server/chapter4.pdf)
+  
+ 
+ [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/0b7f5c5c05577a3c85fb181a758fa36ee55b38d7)
