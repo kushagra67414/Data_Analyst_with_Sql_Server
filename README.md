@@ -490,7 +490,7 @@ WITH A CASE STUDY
 [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/aac1ba08ddc708b121eeb477b92da8bbb58fad77)
 
 
-COMPLETE THE COURSE : THE DATA ANALYST WITH SQL SERVER
+# COMPLETE THE COURSE : THE DATA ANALYST WITH SQL SERVER
 
 
 [STATEMENT OF ACCOMPLISHMENT OF COMPLETE COURSE](https://www.datacamp.com/statement-of-accomplishment/track/ec323863f83cfd32a6e9446d95cf780cda6104b6)
