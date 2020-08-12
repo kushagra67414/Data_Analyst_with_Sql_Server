@@ -440,3 +440,59 @@ WITH A CASE STUDY
  [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/chapter4.pdf)
  
  [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/611d2c99bb89ecdfcbdd4b5a73f8005d8e7a930d)
+ 
+ 
+ 
+ ##           COURSE-11 [Improving Query Performance in SQL Server]
+ 
+ 
+      `CHAPTER-1`
+      
+* Commenting blocks AND lines.
+* Aliasing
+* Renamed columns
+* Query order
+* Syntax order
+* Logical processing order
+
+[Click here for more Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Improving%20Query%20Performance%20in%20SQL%20Server/chapter1.pdf)
+
+      `CHAPTER-2`
+* Filtering with WHERE
+* WHERE processing order
+* using sub - query
+* Functions on columns OR where
+* Filtering with HAVING
+* Interrogation after SELECT
+* Managing duplicates
+* Distint() / union()
+
+[Click here for more Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Improving%20Query%20Performance%20in%20SQL%20Server/chapter2.pdf)
+
+      `CHAPTER-3`
+
+* Sub-queries
+* Presence and absence
+* INTERSECT and EXPECT
+* JOINS
+
+[Click here for more Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Improving%20Query%20Performance%20in%20SQL%20Server/chapter3.pdf)
+
+      `CHAPTER-4`
+      
+* Time statistics
+* Page read statistics
+* What are INDEXs
+* Execution plans
+* Query performance tuning
+[Click here for more Details](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Improving%20Query%20Performance%20in%20SQL%20Server/chapter4.pdf)
+
+[STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/aac1ba08ddc708b121eeb477b92da8bbb58fad77)
+
+
+COMPLETE THE COURSE : THE DATA ANALYST WITH SQL SERVER
+
+
+[STATEMENT OF ACCOMPLISHMENT OF COMPLETE COURSE](https://www.datacamp.com/statement-of-accomplishment/track/ec323863f83cfd32a6e9446d95cf780cda6104b6)
+
+Thank You !!!!!
