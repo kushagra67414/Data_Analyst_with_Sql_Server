@@ -394,3 +394,49 @@ WITH A CASE STUDY
   
  
  [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/0b7f5c5c05577a3c85fb181a758fa36ee55b38d7)
+ 
+ 
+ 
+ ##         COURSE-10 [Building and Optimizing Triggers in SQL Server]
+ 
+          `CHAPTER-1`
+ * Types of Triggers
+ a> based on T-SQL commands)
+ b> based on behavior
+ * How DML triggers re used
+ * AFTER VS Instead of
+ * Trigger alternatives
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/chapter1.pdf)
+ 
+          `CHAPTER-2`
+
+ * More usage of tirggers
+ * Logon triggers
+ * why  AFTER ? Why FOR ?
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/chapter2.pdf)
+
+          `CHAPTER-3`
+
+ * Known limitations of triggers
+ * Finding triggers 
+ * Methods to VIEW triggers.
+ * Use cases for AFTER triggers (DML)
+ * NOTIFY USERS
+ * Use cases for INSTEAD OF triggers (DML)
+ * Use cases for *~DDL~* triggers
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/chapter3.pdf)
+ 
+ 
+           `CHAPTER-4`
+ * Deleting and altering triggers
+ LIKE => ALTERING / DISABLING/ ETC ETC
+ * Trigger management
+ * Getting info from sys.triggers
+ * Troubleshooting triggers
+ 
+ [click here for more](https://github.com/kushagra67414/Data_Analyst_with_Sql_Server/blob/master/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/chapter4.pdf)
+ 
+ [STATEMENT OF ACCOMPLISHMENT](https://www.datacamp.com/statement-of-accomplishment/course/611d2c99bb89ecdfcbdd4b5a73f8005d8e7a930d)
