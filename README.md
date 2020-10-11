@@ -10,7 +10,7 @@
 ## Course-1 Accomplisment
    
 [Introduction to SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/88e32108703000f83a0330cc2d9e6c45e013e608)
-https://www.datacamp.com/statement-of-accomplishment/course/88e32108703000f83a0330cc2d9e6c45e013e608
+https://www.datacamp.com/statement-of-accomplishment/course/88e32108703000f83a0330cc2d9e6c45e013e608)
 
 ## Course-2 Accomplisment
 
