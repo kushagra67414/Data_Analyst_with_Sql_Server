@@ -3,6 +3,15 @@
 ##   Already started my course from DataCamp 
 
 ` Total 11 courses` 
+Building and Optimizing Triggers in SQL Server
+Database Design
+Functions for Manipulating Data in SQL Server
+Hierarchical and Recursive Queries in SQL Server
+Improving Query Performance in SQL Server
+Intermediate SQL Server
+Time Series Analysis in SQL Server
+Transactions and Error Handling in SQL Server
+Writing Functions and Stored Procedures in SQL Server
 
 >Will try to update my progess at alternate days.
  
