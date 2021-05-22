@@ -1,27 +1,22 @@
 # Data_Analyst_with_Sql_Server
 
-##   Already started my course from DataCamp 
+##   Already started my course from DataCamp<br>
+Total 11 courses 
 
-` Total 11 courses` 
-Building and Optimizing Triggers in SQL Server
+1. Introduction to SQL Server
+2. Introduction to Relational Databases in SQL
+3. Intermediate SQL Server
+4. Time Series Analysis in SQL Server
+5. Functions for Manipulating Data in SQL Server
+6. Database Design
+7. Hierarchical and Recursive Queries in SQL Server
+8. Transactions and Error Handling in SQL Server
+9. Writing Functions and Stored Procedures in SQL Server
+10. Building and Optimizing Triggers in SQL Server
+11. Improving Query Performance in SQL Server
 
-Database Design
 
-Functions for Manipulating Data in SQL Server
-
-Hierarchical and Recursive Queries in SQL Server
-
-Improving Query Performance in SQL Server
-
-Intermediate SQL Server
-
-Time Series Analysis in SQL Server
-
-Transactions and Error Handling in SQL Server
-
-Writing Functions and Stored Procedures in SQL Server
-
->Will try to update my progess at alternate days.
+**Will try to update my progess on alternate days.**
  
  
 ## Course-1 Accomplisment
